@@ -29,3 +29,17 @@ while True:
         break
     else:
         print("Opción no válida. Intente de nuevo.")
+
+def agregar_tarea(tareas):
+      print("Estamos programando...")
+
+def eliminar_tarea(tareas):
+    print("Estamos programando...")
+
+def mostrar_tareas(tareas):
+    print("Estamos programando...")
+
+def salir():
+    print("Saliendo del programa...")
+
+        
